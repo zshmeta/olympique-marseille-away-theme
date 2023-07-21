@@ -1,0 +1,21 @@
+{
+  "name": "olympique-de-marseille-away",
+  "displayName": "Olympique-de-Marseille-Away",
+  "description": "A Dark Theme For The Team",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Olympique-de-Marseille-Away",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Olympique-de-Marseille-Away-color-theme.json"
+      }
+    ]
+  }
+}
