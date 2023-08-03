@@ -84,17 +84,17 @@
     "merge.currentHeaderBackground": "#0c2340",
     "panel.border": "#f9a828",
     "panelTitle.activeBorder": "#f9a828",
-    "panelTitle.activeForeground": "#ffffff",
+    "panelTitle.activeForeground": "#f9a828",
     "panelTitle.inactiveForeground": "#ffffff", 
-    "statusBarItem.hoverBackground": "#1a3b5c",
-    "statusBarItem.remoteBackground": "#0c2340",
+    "statusBarItem.hoverBackground": "#1e88e5",
+    "statusBarItem.remoteBackground": "#1a3b5c",
     "statusBarItem.remoteForeground": "#ffffff",
     "extensionButton.prominentForeground": "#ffffff",
     "extensionButton.prominentBackground": "#1e88e5",
     "extensionButton.prominentHoverBackground": "#f9a828",
     "pickerGroup.border": "#f9a828",
-    "terminal.foreground": "#ffffff",
-    "terminal.background": "#0c2340"
+    "terminal.foreground": "#f9a828",
+    "terminal.background": "#011125"
   },
   "tokenColors": [{
     "name": "Comment",
