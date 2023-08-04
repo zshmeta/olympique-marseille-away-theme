@@ -3,22 +3,21 @@
   "displayName": "Olympique de Marseille Away",
   "version": "0.1.3",
   "publisher": "Belka Hedia",
-"description": "A Theme For the Team Olympique de Marseille!",
+  "description": "A away-Theme For the Team Olympique de Marseille",
   "author": {
     "name": "zshmeta"
   },
   "categories": ["Themes"],
-  "icon": "images/ompng.png",
+  "icon": "ompng.png",
   "galleryBanner": {
     "color": "#0c2340",
-    "theme": "dark"
+    "away-theme": "dark"
   },
   "activationEvents": ["onLanguage:markdown"],
   "engines": {
     "vscode": "^1.0.0"
   },
   "main": "./out/extension",
-
   "license": "SEE LICENSE IN LICENSE.txt",
   "bugs": {
     "url": "https://github.com/zshmeta/olympique-de-marseille-away-theme/issues"
@@ -28,5 +27,5 @@
     "type": "git",
     "url": "https://github.com/zshmeta/olympique-de-marseille-away-theme.git"
   },
-  "homepage": "https://github.com/zshmeta/olympique-de-marseille-away-theme",
+  "homepage": "https://github.com/zshmeta/olympique-de-marseille-away-theme"
 }
