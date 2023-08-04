@@ -5,21 +5,35 @@
   "publisher": "zshmeta",
   "description": "A Theme For the Team Olympique de Marseille Away",
   "author": {
-    "name": "Belka Hedia",
+    "name": "Belka Hedia"
   },
   "engines": {
     "vscode": "^1.0.0"
   },
-  "categories": ["Themes"],
-  "icon": "./themes/om.png",
-  "galleryBanner": {
-    "color": "#0c2340",
-    "theme": "light"
-  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "icon": "logo.png",
+  "keywords": [
+    "Theme",
+    "Light Theme",
+    "Customize",
+    "Color Theme",
+    "Color",
+    "Colors",
+    "Light Theme",
+    "Light",
+    "Custom",
+    "Custom Theme",
+    "Custom Color Theme",
+    "Custom Colors",
+    "Custom Light Theme",
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zshmeta/olympique-de-marseille-away-theme/issues",
-    "email": "zshmeta@duck.com"
+    "url": "https://github.com/zshmeta/olympique-de-marseille-away-theme/",
+    "email": "zshmeta@gmail.com"
   },
   "repository": {
     "type": "git",
