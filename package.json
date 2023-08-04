@@ -1,27 +1,32 @@
 {
   "name": "olympique-de-marseille-away",
-  "displayName": "Olympique-de-Marseille-away",
-  "author": "Zshmeta - Olympique-de-Marseille-exterieur",
-  "publisher": "Zshmeta",
+  "displayName": "Olympique de Marseille Away",
+  "version": "0.1.3",
+  "publisher": "Belka Hedia",
+"description": "A Theme For the Team Olympique de Marseille!",
+  "author": {
+    "name": "zshmeta"
+  },
+  "categories": ["Themes"],
+  "icon": "images/ompng.png",
+  "galleryBanner": {
+    "color": "#0c2340",
+    "theme": "dark"
+  },
+  "activationEvents": ["onLanguage:markdown"],
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "main": "./out/extension",
+
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/zshmeta/olympique-de-marseille-away-theme/issues"
+    "email": "zshmeta@duck.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/zshmeta/olympique-de-marseille-away-theme.git"
   },
-  "description": "A Theme For The Team!",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.80.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Olympique-de-Marseille-away",
-        "uiTheme": "vs",
-        "path": "./themes/Olympique-de-Marseille-Away-color-theme.json"
-      }
-    ]
-  }
+  "homepage": "https://github.com/zshmeta/olympique-de-marseille-away-theme",
 }
