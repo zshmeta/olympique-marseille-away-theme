@@ -1,7 +1,7 @@
 {
   "name": "olympique-de-marseille-away",
   "displayName": "Olympique de Marseille Away",
-  "version": "0.13.0",
+  "version": "1.2.0",
   "publisher": "zshmeta",
   "description": "A Theme For the Team Olympique de Marseille Away",
   "author": {
@@ -30,6 +30,14 @@
     "Custom Colors",
     "Custom Dark Theme"
   ],
+  "contributes": {
+  "themes": [
+        {
+            "label": "vuesion",
+            "uiTheme": "vs-dark",
+            "path": "./themes/olympique-de-marseille-away-color.json"
+        }
+    ]
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zshmeta/olympique-de-marseille-away-theme/",
