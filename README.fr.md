@@ -1,6 +1,7 @@
 # Thème Olympique de Marseille pour Visual Studio Code
 
-![Thème Olympique de Marseille](preview.png)
+![Theme Olympique de Marseille](https://i.imgur.com/aFUEr68.png)
+![Olympique de Marseille Theme](https://i.imgur.com/IPSU4rp.png)
 
 ## Description
 
