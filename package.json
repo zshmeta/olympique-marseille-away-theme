@@ -12,7 +12,7 @@
   },
   "categories": [
     "Themes",
-    "Other"
+    "Dark Themes"
   ],
   "icon": "om.png",
   "keywords": [
@@ -31,13 +31,14 @@
     "Custom Dark Theme"
   ],
   "contributes": {
-  "themes": [
-        {
-            "label": "vuesion",
-            "uiTheme": "vs-dark",
-            "path": "./themes/olympique-de-marseille-away-color.json"
-        }
+    "themes": [
+      {
+        "label": "olympique-de-marseille-away",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Olympique-de-Marseille-Away-color-theme.json"
+      }
     ]
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zshmeta/olympique-de-marseille-away-theme/",
