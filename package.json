@@ -2,10 +2,10 @@
   "name": "olympique-de-marseille-away",
   "displayName": "Olympique de Marseille Away",
   "version": "0.1.3",
-  "publisher": "Belka Hedia",
+  "publisher": "zshmeta",
   "description": "A Theme For the Team Olympique de Marseille Away",
   "author": {
-    "name": "zshmeta"
+    "name": "Belka Hedia",
   },
   "engines": {
     "vscode": "^1.0.0"
