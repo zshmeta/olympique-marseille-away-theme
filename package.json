@@ -1,7 +1,13 @@
 {
   "name": "olympique-de-marseille-away",
-  "displayName": "Olympique-de-Marseille-Away",
-  "description": "A Dark Theme For The Team",
+  "displayName": "Olympique-de-Marseille-away",
+  "author": "Zshmeta - Olympique-de-Marseille-exterieur",
+  "publisher": "Zshmeta",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zshmeta/olympique-de-marseille-away-theme.git"
+  },
+  "description": "A Theme For The Team!",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.80.0"
@@ -12,8 +18,8 @@
   "contributes": {
     "themes": [
       {
-        "label": "Olympique-de-Marseille-Away",
-        "uiTheme": "vs-dark",
+        "label": "Olympique-de-Marseille-away",
+        "uiTheme": "vs",
         "path": "./themes/Olympique-de-Marseille-Away-color-theme.json"
       }
     ]
