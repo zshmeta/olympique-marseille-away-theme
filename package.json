@@ -14,7 +14,7 @@
     "Themes",
     "Other"
   ],
-  "icon": "logo.png",
+  "icon": "om.png",
   "keywords": [
     "Theme",
     "Light Theme",
@@ -28,7 +28,7 @@
     "Custom Theme",
     "Custom Color Theme",
     "Custom Colors",
-    "Custom Light Theme",
+    "Custom Light Theme"
   ],
   "license": "MIT",
   "bugs": {
