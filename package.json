@@ -11,9 +11,9 @@
     "vscode": "^1.0.0"
   },
   "categories": ["Themes"],
-  "icon": "ompng.png",
+  "icon": "./themes/om.png",
   "galleryBanner": {
-    "color": "#1e88e5",
+    "color": "#0c2340",
     "theme": "light"
   },
   "license": "MIT",
