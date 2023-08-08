@@ -64,7 +64,7 @@
     "editorBracketMatch.background": "#1e88e5",
     "editorBracketMatch.border": "#f9a828",
     "editor.hoverHighlightBackground": "#1e88e5", 
-    "editorLink.activeForeground": "#1e88e5",
+    "editorLink.activeForeground": "#1e88e583",
     "editorError.foreground": "#cc241d", 
     "editorWarning.foreground": "#d79921",
     "editor.rangeHighlightBackground": "#0c2340",
