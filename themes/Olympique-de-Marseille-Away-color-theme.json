@@ -53,7 +53,7 @@
     "editorGutter.background": "#001A3A",
     "editorLineNumber.foreground": "#FCB139",
     "editorIndentGuide.background": "#f9a828",
-    "editorWhitespace.foreground": "#F9A92854",
+    "editorWhitespace.foreground": "#F9a828",
     "editor.selectionBackground": "#F9A9287C", 
     "editor.selectionHighlightBackground": "#F9A9282F",
     "editor.wordHighlightBackground": "#F9A92844", 
@@ -108,7 +108,7 @@
     "scope": ["comment", "punctuation.definition.comment"],
     "settings": {
       "fontStyle": "italic",
-      "foreground": "#F9A9288E"
+      "foreground": "#F9a828"
     }
   },{
     "name": "Variables",
@@ -120,13 +120,13 @@
     "name": "Colors",
     "scope": ["constant.other.color"],
     "settings": {
-      "foreground": "#ffff"
+      "foreground": "#FF00FF"
     }
   },{
     "name": "Invalid",
     "scope": ["invalid", "invalid.illegal"], 
     "settings": {
-      "foreground": "#F1730BD8"
+      "foreground": "#FF0000"
     }
   },{
     "name": "Keyword, Storage",
@@ -144,7 +144,7 @@
     "name": "Punctuation",
     "scope": ["punctuation", "meta.separator", "meta.delimiter"],
     "settings": {
-      "foreground": "#FF0000"
+      "foreground": "#F1730BD8"
     }
   },{
     "name": "Function, Special Method",
@@ -169,7 +169,7 @@
     "scope": ["constant.numeric", "constant.language", "support.constant", "constant.character", "constant.escape",
             "variable.parameter", "keyword.other.unit", "keyword.other"],
     "settings": {
-      "foreground": "#FFFF"
+      "foreground": "#FFFF00"
     }
   },{
     "name": "String, Symbols, Inherited Class, Markup Heading",
@@ -179,7 +179,7 @@
     }
   },{
     "name": "Class, Support",
-    "scope": ["entity.name", "support.type", "support.class", "support.orther.namespace.use.php", "meta.use.php", "support.other.namespace.php", "markup.changed.git_gutter", "support.type.sys-types"],
+    "scope": ["entity.name", "support.type", "support.class", "support.other.namespace.use.php", "meta.use.php", "support.other.namespace.php", "markup.changed.git_gutter", "support.type.sys-types"],
     "settings": {
       "foreground": "#00FF00"
     }
@@ -201,7 +201,92 @@
     "settings": {
       "foreground": "#1e88e5"
     }
-  }],
-
-  "semanticHighlighting": true
+  },{
+  "name": "JS Comments",
+  "scope": ["comment", "punctuation.definition.comment"],
+  "settings": {
+    "fontStyle": "italic", 
+    "foreground": "#F9a828"
+  }
+},
+{
+  "name": "JS Strings",
+  "scope": ["string"], 
+  "settings": {
+    "foreground": "#FF9D00" 
+  }
+},
+{ 
+  "name": "JS Variables",
+  "scope": ["variable"],
+  "settings": {
+    "foreground": "#0099FF"
+  }
+},
+{
+  "name": "JS Operators",
+  "scope": ["keyword.operator"],
+  "settings": {
+    "foreground": "#00FF00"
+  }
+},
+{
+  "name": "JS Keywords",
+  "scope": ["keyword"], 
+  "settings": {
+    "foreground": "#00FF00"
+  }
+},
+{
+  "name": "JS Functions",
+  "scope": ["entity.name.function", "meta.function-call"],
+  "settings": {
+    "foreground": "#00FF00"
+  }
+},
+{
+  "name": "JS Classes",
+  "scope": ["entity.name.type", "entity.name.class"],
+  "settings": {
+    "foreground": "#2AA198"
+  }
+},
+{
+  "name": "JS Object Keys",
+  "scope": ["meta.object-literal.key"],
+  "settings": {
+    "foreground": "#FF9D00"
+  }
+},
+{
+  "name": "JS Constants",
+  "scope": ["constant.language"],
+  "settings": {
+    "foreground": "#FFFF00"
+  }, {
+    "name": "JS Invalid",
+    "scope": ["invalid"],
+    "settings": {
+      "foreground": "#FF0000"
+    }
+  }, {
+    "name": "JS Deprecated",
+    "scope": ["invalid.deprecated"],
+    "settings": {
+      "foreground": "#FF0000"
+    }
+  }, {
+    "name": "JS Markup Template",
+    "scope": ["text.html.basic source.js.embedded.html"],
+    "settings": {
+      "foreground": "#FF9D00"
+    }
+  }, {
+    "name": "JS Embedded",
+    "scope": ["text.html.basic source.js.embedded.html"],
+    "settings": {
+      "foreground": "#FF9D00"
+    }
+  }
+  ]
 }
