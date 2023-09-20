@@ -49,10 +49,10 @@
     "input.foreground": "#F7AC35",
     "inputOption.activeBorder": "#f9a828",
     "editor.background": "#011329",
-    "editor.foreground": "#f9a828",
+    "editor.foreground": "#F08828",
     "editorGutter.background": "#001A3A",
     "editorLineNumber.foreground": "#FCB139",
-    "editorIndentGuide.background": "#f9a828",
+    "editorIndentGuide.background": "#001A3A",
     "editorWhitespace.foreground": "#F9a828",
     "editor.selectionBackground": "#F9A9287C", 
     "editor.selectionHighlightBackground": "#F9A9282F",
@@ -68,7 +68,7 @@
     "editor.hoverHighlightBackground": "#1e88e583", 
     "editorLink.activeForeground": "#1e88e583",
     "editorError.foreground": "#cc241d", 
-    "editorWarning.foreground": "#d79921",
+    "editorWarning.foreground": "#F06111",
     "editor.rangeHighlightBackground": "#0c2340",
     "editorWidget.background": "#0c2340",
     "editorWidget.border": "#f9a828",
@@ -108,7 +108,9 @@
     "scope": ["comment", "punctuation.definition.comment"],
     "settings": {
       "fontStyle": "italic",
-      "foreground": "#F9a828"
+      "foreground": "#F08828",
+      "background": "#090933"
+
     }
   },{
     "name": "Variables",
@@ -206,14 +208,14 @@
   "scope": ["comment", "punctuation.definition.comment"],
   "settings": {
     "fontStyle": "italic", 
-    "foreground": "#F9a828"
+    "foreground": "#224D727C"
   }
 },
 {
   "name": "JS Strings",
   "scope": ["string"], 
   "settings": {
-    "foreground": "#FF9D00" 
+    "foreground": "#E5FF00" 
   }
 },
 { 
@@ -227,7 +229,7 @@
   "name": "JS Operators",
   "scope": ["keyword.operator"],
   "settings": {
-    "foreground": "#00FF00"
+    "foreground": "#B45000"
   }
 },
 {
@@ -255,7 +257,7 @@
   "name": "JS Object Keys",
   "scope": ["meta.object-literal.key"],
   "settings": {
-    "foreground": "#FF9D00"
+    "foreground": "#0026FF"
   }
 },
 {
@@ -279,13 +281,13 @@
     "name": "JS Markup Template",
     "scope": ["text.html.basic source.js.embedded.html"],
     "settings": {
-      "foreground": "#FF9D00"
+      "foreground": "#03A361"
     }
   }, {
     "name": "JS Embedded",
     "scope": ["text.html.basic source.js.embedded.html"],
     "settings": {
-      "foreground": "#FF9D00"
+      "foreground": "#035750"
     }
   }
   ]
