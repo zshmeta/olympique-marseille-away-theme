@@ -294,6 +294,7 @@
     "settings": {
       "foreground": "#035750"
     }
-  }
-  ]
+  }],
+
+  "semanticHighlighting": true
 }
