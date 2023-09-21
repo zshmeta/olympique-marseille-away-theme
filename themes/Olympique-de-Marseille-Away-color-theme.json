@@ -101,7 +101,7 @@
     "extensionButton.prominentHoverBackground": "#f9a828",
     "pickerGroup.border": "#f9a828",
     "terminal.foreground": "#f9a828",
-    "terminal.background": "#000B18",
+    "terminal.background": "#000B18"
   },
   "tokenColors": [{
     "name": "Comment",
