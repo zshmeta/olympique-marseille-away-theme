@@ -113,48 +113,51 @@
       "background": "#090933"
 
     }
-  },{
+  },
+  {
     "name": "Variables",
     "scope": ["variable", "string constant.other.placeholder"],
     "settings": {
       "foreground": "#0099FF"
     }
-  },{
+  },
+  {
     "name": "Colors",
     "scope": ["constant.other.color"],
     "settings": {
       "foreground": "#FF00FF"
     }
-  },{
+  },
+  {
     "name": "Invalid",
     "scope": ["invalid", "invalid.illegal"], 
     "settings": {
       "foreground": "#FF0000"
-    }
+    },
   },{
     "name": "Keyword, Storage",
     "scope": ["keyword", "storage.type", "storage.modifier"],
     "settings": {
       "foreground": "#00FF00"
-    }
+    },
   },{
     "name": "Operator, Misc",
     "scope": ["keyword.control", "constant.other.color", "meta.tag"],
     "settings": {
       "foreground": "#00FF00"
-    }
+    },
   },{
     "name": "Punctuation",
     "scope": ["punctuation", "meta.separator", "meta.delimiter"],
     "settings": {
       "foreground": "#F1730BD8"
-    }
+    },
   },{
     "name": "Function, Special Method",
     "scope": ["entity.name.function", "meta.function-call", "support.function", "keyword.other.special-method"],
     "settings": {
       "foreground": "#00FF00"
-    }
+    },
   },{
     "name": "Block Level Variables",
     "scope": ["meta.block variable.other"],
@@ -266,7 +269,8 @@
   "scope": ["constant.language"],
   "settings": {
     "foreground": "#FFFF00"
-  }, {
+  }
+  },{
     "name": "JS Invalid",
     "scope": ["invalid"],
     "settings": {
