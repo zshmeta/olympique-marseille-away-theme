@@ -16,7 +16,7 @@
     "list.inactiveSelectionBackground": "#1e88e5",
     "list.activeSelectionBackground": "#1e88e5",
     "list.activeSelectionForeground": "#f9a828",
-    "list.inactiveSelectionForeground": "#ffffff",  
+    "list.inactiveSelectionForeground": "#ffffff", 
     "list.highlightForeground": "#1e88e5",
     "scrollbarSlider.background": "#1e88e5",
     "scrollbarSlider.activeBackground": "#f9a828", 
@@ -103,6 +103,7 @@
     "terminal.foreground": "#f9a828",
     "terminal.background": "#000B18"
   },
+
   "tokenColors": [{
     "name": "Comment",
     "scope": ["comment", "punctuation.definition.comment"],
