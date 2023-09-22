@@ -110,7 +110,7 @@
     "settings": {
       "fontStyle": "italic",
       "foreground": "#F08828",
-      "background": "#090933"
+      "background": "#C08261"
 
     }
   },
@@ -212,7 +212,7 @@
   "scope": ["comment", "punctuation.definition.comment"],
   "settings": {
     "fontStyle": "italic", 
-    "foreground": "#224D727C"
+    "foreground": "#C08261"
   }
 },
 {
