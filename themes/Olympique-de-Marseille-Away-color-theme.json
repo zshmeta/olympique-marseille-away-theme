@@ -214,12 +214,12 @@
     "fontStyle": "italic", 
     "foreground": "#C08261"
   }
-},
+}, 
 {
   "name": "JS Strings",
   "scope": ["string"], 
   "settings": {
-    "foreground": "#E5FF00" 
+    "foreground": "#FF9D00" 
   }
 },
 { 
